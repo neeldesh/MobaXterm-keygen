@@ -1,6 +1,6 @@
 # MobaXterm Keygen
 
-## How it work?
+## How does it work?
 
 Please see source code. It is not complex.
 
@@ -8,17 +8,18 @@ Please see source code. It is not complex.
 
 ```
 Usage:
-    MobaXterm-Keygen.py <UserName> <Version>
+    MobaXterm-Keygen.py <UserName> <Version> <Number of licenses>
 
-    <UserName>:      The Name licensed to
-    <Version>:       The Version of MobaXterm
-                     Example:    10.9
+    <UserName>:                 Name for "licensed to.."
+    <Version>:                  The Version of MobaXterm
+                                Example:    10.9
+    <Number of licenses>:       Example:    2
 ```
 
 EXAMPLE:
 
 ```
-PS C:\Users\DoubleSine\Github\MobaXterm-Keygen> .\MobaXterm-Keygen.py "DoubleSine" 10.9
+PS C:\Users\DoubleSine\Github\MobaXterm-Keygen> .\MobaXterm-Keygen.py "DoubleSine" 10.9 5
 [*] Success!
 [*] File generated: C:\Users\DoubleSine\Github\MobaXterm-Keygen\Custom.mxtpro
 [*] Please move or copy the newly-generated file to MobaXterm's installation path.
